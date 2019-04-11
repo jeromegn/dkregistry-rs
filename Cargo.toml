@@ -21,7 +21,7 @@ libflate = "0.1"
 log = "0.4"
 mime = "0.3"
 mockito = { version = "0.17", optional = true }
-regex = "^1.1.0"
+regex = "1"
 serde = "1"
 serde_derive = "1"
 serde_json = "1"
